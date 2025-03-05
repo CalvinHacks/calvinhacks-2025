@@ -24,7 +24,7 @@ const HeroSection = () => {
 
             <SignupInfo>
                 <HeroH1>
-                    CalvinHacks
+                    Abstraction Hackathon
                 </HeroH1>
                 <HeroP>
                     Take a Break and Get Plugged Back in!

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9600b9be.chunk.css",
-    "main.js": "/static/js/main.b96c351b.chunk.js",
-    "main.js.map": "/static/js/main.b96c351b.chunk.js.map",
+    "main.js": "/static/js/main.a3f5afc2.chunk.js",
+    "main.js.map": "/static/js/main.a3f5afc2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ee1c05a9.js",
     "runtime-main.js.map": "/static/js/runtime-main.ee1c05a9.js.map",
     "static/css/2.0975cee1.chunk.css": "/static/css/2.0975cee1.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.0975cee1.chunk.css.map": "/static/css/2.0975cee1.chunk.css.map",
     "static/css/main.9600b9be.chunk.css.map": "/static/css/main.9600b9be.chunk.css.map",
     "static/js/2.e2ce1729.chunk.js.LICENSE.txt": "/static/js/2.e2ce1729.chunk.js.LICENSE.txt",
+    "static/media/GDG.ada8a676.png": "/static/media/GDG.ada8a676.png",
     "static/media/SponsorshipDocument2023.0473d156.pdf": "/static/media/SponsorshipDocument2023.0473d156.pdf",
     "static/media/atomic.d877017f.png": "/static/media/atomic.d877017f.png",
     "static/media/calvin.4af8969a.jpg": "/static/media/calvin.4af8969a.jpg",
@@ -32,6 +33,6 @@
     "static/css/2.0975cee1.chunk.css",
     "static/js/2.e2ce1729.chunk.js",
     "static/css/main.9600b9be.chunk.css",
-    "static/js/main.b96c351b.chunk.js"
+    "static/js/main.a3f5afc2.chunk.js"
   ]
 }

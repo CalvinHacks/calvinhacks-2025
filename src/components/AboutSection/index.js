@@ -95,7 +95,7 @@ const AboutSection = () => {
                     </DetailSection>
                 </TextWithImageSection>
                 <DescriptionP1>
-                    $3000 in Prizes!
+                    $2000 in Prizes!
                 </DescriptionP1>
             </AboutDescriptionSection>
 

@@ -21,13 +21,19 @@ const Sidebar = ({ isOpen, toggle }) => {
                     <SidebarLink to='Sponsors' onClick={toggle}>
                         Sponsors
                     </SidebarLink>
-                    <NavItemResume to='/Resume'>
-                        Resume
+                    <NavItemResume 
+                        as="a"
+                        href="https://docs.google.com/document/d/1PMoMHBsA6PeJWPApwMy9zLURWc5ExGQJRLX_38UgbL0/edit?usp=sharing"
+                        target="_blank"
+                        rel="noopener noreferrer" 
+                        onClick={toggle}
+                    >
+                        Rules
                     </NavItemResume>
                 </SidebarMenu>
                 <SideButtonContainer>
                     <SidebarRoute to='./signup' onClick={toggle}>
-                        Sign-Up for CalvinHacks
+                        Sign-Up for Abstraction Hackathon
                     </SidebarRoute>
                     <SidebarRoute to='./signin' onClick={toggle}>
                         Sign-In

@@ -17,7 +17,7 @@ export const FirstDay = [
     time: "6:30pm - 7:30pm",
     event: "Dinner",
     location: "Business Building Lobby",
-    description: "Eat, I guess.",
+    description: "Little Caesars Pizza and Crazy Bread!",
   },
   {
     time: "X:00pm - X:00pm",
@@ -29,6 +29,6 @@ export const FirstDay = [
     time: "12:30am - 1:00am",
     event: "Midnight Snack + Giveaway raffles",
     location: "Business Building Lobby",
-    //description: 'Little Caesar',
+    description: 'Donuts!',
   },
 ];

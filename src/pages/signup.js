@@ -402,7 +402,7 @@ const SignupPage = () => {
                         onSubmit={submit}
                     >
                         <h1>
-                            Welcome to CalvinHacks!
+                            Welcome to Abstraction Hackathon!
                         </h1>
                         <FormContainer>
                             <label>First name</label>
@@ -521,52 +521,6 @@ const SignupPage = () => {
                                 value={shirtSize}
                             />
                         </FormContainer> }
-
-
-                        <CodeContainer>
-                            <p><b>MLH Code of Conduct:</b> "I have read and agree to the <a href='https://static.mlh.io/docs/mlh-code-of-conduct.pdf' target="_blank">MLH Code of
-                                Conduct</a>."</p>
-                            <input
-                                type="checkbox"
-                                name="conduct"
-                                placeholder='Your shirt size (S, M, L, XL, XXL)'
-                                onChange={handleInput}
-                                value={conduct}
-                                required
-                            />
-                        </CodeContainer>
-
-
-                        <CodeContainer>
-                            <p><b>Event Logistics Information: </b> “I authorize you to share my
-                                application/registration information with Major League Hacking for event
-                                administration, ranking, and MLH administration in-line with the <a href='https://mlh.io/privacy' target="_blank">MLH Privacy Policy</a>. I further agree to the terms of both the
-                                <a href='https://github.com/MLH/mlh-policies/tree/master/prize-terms-and-conditions' target="_blank"> MLH Contest
-                                    Terms and Conditions</a> and the <a href='https://mlh.io/privacy' target="_blank">MLH Privacy Policy</a>.”</p>
-                            <input
-                                type="checkbox"
-                                name="logistics"
-                                placeholder='Your shirt size (S, M, L, XL, XXL)'
-                                onChange={handleInput}
-                                value={logistics}
-                                required
-                            />
-                        </CodeContainer>
-
-
-                        <CodeContainer>
-                            <p><b>Communication from MLH: </b> “I authorize MLH to send me pre- and
-                                post-event informational emails, which contain free credit and
-                                opportunities from their partners."</p>
-                            <input
-                                type="checkbox"
-                                name="communication"
-                                placeholder='Your shirt size (S, M, L, XL, XXL)'
-                                onChange={handleInput}
-                                value={communication}
-                                required
-                            />
-                        </CodeContainer>
 
                                             
                         <ButtonContainer>

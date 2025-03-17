@@ -33,7 +33,7 @@ const AboutSection = () => {
     return (
         <AboutSectionContainer id="about">
 
-            <Parallax>
+            {/* <Parallax>
                 <section>
                     <FrontImg>
                         <ImgFront src={parallax_front} alt='front'
@@ -52,15 +52,15 @@ const AboutSection = () => {
                             alt='background' heightValue={scroll * .4} />
                     </BackgroundImg>
                 </section>
-            </Parallax>
+            </Parallax> */}
 
             <AboutDescriptionSection>
                 {/* <p>Px scrolled: {scroll}</p> */}
                 <DescriptionP>
                     <h1>
-                        CalvinHacks is a 24Hr hackathon at Calvin University
+                        Abstraction Hackathon is a 24Hr hackathon at Calvin University
                     </h1>
-                    <h4>We believe through CalvinHacks participants will </h4>
+                    <h4>We believe through Abstraction Hackathon participants will </h4>
                     <img src={testing} alt='testing'></img>
                 </DescriptionP>
                 <TextWithImageSection>

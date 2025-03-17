@@ -93,12 +93,30 @@ const Navbar = ({ toggle }) => {
                 Sponsors
               </NavLinks>
             </NavItem>
-            <NavItemResume to="/Resume">Resume</NavItemResume>
+            <NavItemResume 
+              as="a"
+              href="https://docs.google.com/document/d/1PMoMHBsA6PeJWPApwMy9zLURWc5ExGQJRLX_38UgbL0/edit?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"             
+            >
+            Rules
+              
+            </NavItemResume>
             {/* TODO: My changes */}
-            <NavItemResume to="">Submit Code</NavItemResume>
             <NavButton>
-              <NavButtonLink to="/signin">Log in</NavButtonLink>
+              <NavButtonLink 
+                as="a"
+                href="https://abstraction-hackathon-2025.devpost.com/?preview_token=mM4lt3C5zP6qX4PiRX7mXDXf8YS0%2B1yPZUOPAercIE8%3D"
+                target="_blank"
+                rel="noopener noreferrer" 
+                >
+              Submit Code
+              </NavButtonLink>
             </NavButton>
+            
+            {/* <NavButton>
+              <NavButtonLink to="/signin">Log in</NavButtonLink>
+            </NavButton>  */}
             {/* TODO: My changes */}
           </NavMenu>
         </NavbarContainer>

@@ -3,7 +3,7 @@ export const SecondDay = [
     time: "9:00am - 10:00am",
     event: "Breakfast",
     location: "Business Building Lobby.",
-    //description: 'Krispy Kreme',
+    description: 'Fruit, granola, and yogurt.',
   },
 
   {
@@ -16,17 +16,17 @@ export const SecondDay = [
     time: "12:30pm - 1:30pm",
     event: "Lunch",
     location: "Business Building Lobby",
-    //description: "Wendy's",
+    description: "Panda Express!",
   },
   {
     time: "5:30pm",
     event: "Project Submissions Due",
     location: "",
     description:
-      "Make sure everything is submitted by 4:30pm. We will not accept late submissions. " +
+      "Make sure everything is submitted by 5:30pm. We will not accept late submissions. " +
       "Submit projects to our",
     linkWord: "Devpost.",
-    link: "https://calvinhacks-2024.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    link: "https://abstraction-hackathon-2025.devpost.com/?preview_token=mM4lt3C5zP6qX4PiRX7mXDXf8YS0%2B1yPZUOPAercIE8%3D",
   },
   //TODO: Devpost link goes above
   // {
@@ -45,7 +45,7 @@ export const SecondDay = [
     time: "6:30pm - 7:30pm",
     event: "Dinner & Judge Deliberation",
     location: "Business Building Lobby",
-    //description: 'Wingstop',
+    description: 'TBD',
   },
 
   {
@@ -54,6 +54,6 @@ export const SecondDay = [
     location: "Business Building Lobby",
     description: "Prizes and projects can be viewed at our",
     linkWord: "Devpost.",
-    link: "https://calvinhacks-2024.devpost.com/?ref_feature=challenge&ref_medium=discover",
+    link: "https://abstraction-hackathon-2025.devpost.com/?preview_token=mM4lt3C5zP6qX4PiRX7mXDXf8YS0%2B1yPZUOPAercIE8%3D",
   },
 ];

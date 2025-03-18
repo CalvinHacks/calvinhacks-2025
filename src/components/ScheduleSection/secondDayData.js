@@ -1,16 +1,9 @@
 export const SecondDay = [
   {
-    time: "9:00am - 10:00am",
+    time: "8:00am - 9:00am",
     event: "Breakfast",
     location: "Business Building Lobby.",
     description: 'Fruit, granola, and yogurt.',
-  },
-
-  {
-    time: "10:00am - 11:00am",
-    event: "Workshop",
-    location: "T.B.D.",
-    description: "T.B.D",
   },
   {
     time: "12:30pm - 1:30pm",

@@ -12,8 +12,8 @@ function FooterSection() {
                     <ContentContainer>
                         <InfoContainer>
                             <p>More Info</p>
-                            <StyledLink><a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf" target="_blank" rel="noopener noreferrer">MLH Code of Conduct</a></StyledLink> | <StyledLink><a href="https://calvinhacks-2023.devpost.com/" target="_blank" rel="noopener noreferrer">Devpost</a></StyledLink> | <StyledLink><a href="https://discord.gg/cyXUzYnrn8" target="_blank" rel="noopener noreferrer">Discord</a></StyledLink>
-                            <p>Copyright @ CalvinHacks 2022</p>
+                            <StyledLink><a href="https://abstraction-hackathon-2025.devpost.com/?preview_token=mM4lt3C5zP6qX4PiRX7mXDXf8YS0%2B1yPZUOPAercIE8%3D" target="_blank" rel="noopener noreferrer">Devpost</a></StyledLink> | <StyledLink><a href="https://discord.gg/cyXUzYnrn8" target="_blank" rel="noopener noreferrer">Discord</a></StyledLink>
+                            <p>Copyright @ Abstraction 2025</p>
                         </InfoContainer>
                         <SocialMediaContainer>
                             <p> Follow us on social media!</p>

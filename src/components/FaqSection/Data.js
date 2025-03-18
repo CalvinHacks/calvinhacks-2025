@@ -44,10 +44,8 @@ export const Data = [
         "Projects started before the event will not be considered for prizes. We do, however, allow and encourage the use of third-party APIs, services, and frameworks during the event!",
   },
   {
-      question: "Is there a Code of Conduct for CalvinHacks?",
-      answer: "Yes, we observe the",
-      linkWord: "MLH Code of Conduct",
-      link: "https://static.mlh.io/docs/mlh-code-of-conduct.pdf",
+      question: "Are there any prizes?",
+      answer: "Yes! We will be awarding over $2000 in prizes! We will be having both raffles for everyone, and prize money for the top 3 projects.",
   },
   {
       question: "What are the rules?",
@@ -58,6 +56,6 @@ export const Data = [
   {
       question: "Can I help out as a volunteer?",
       answer:
-        "Yes, we'd love to have you! Please email us at hacks@calvin.edu to get started as an event volunteer.",
+        "Currently we have no openings for volunteers.",
   },
 ];

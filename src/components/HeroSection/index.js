@@ -6,7 +6,7 @@ import {
 import { Button, ButtonSponsor, ButtonGDG} from '../ButtonElement'
 import left from '../../image/left-01-01.png'
 import right from '../../image/right-01-01.png'
-import sponsor from '../../image/SponsorshipDocument2023.pdf'
+import sponsor from '../../image/SponsorshipDocument2025.pdf'
 
 const HeroSection = () => {
 

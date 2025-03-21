@@ -3,21 +3,13 @@ export const FirstDay = [
     time: "5:30pm - 6:00pm",
     event: "Check-in & Setup",
     location: "Business Building Lobby",
-    description: "Welcome to CalvinHacks! Come and join our ",
-    linkWord: "Discord!",
-    link: "https://discord.com/invite/cyXUzYnrn8",
+    description: "Welcome to CalvinHacks! Note: for those that come late, sign up will stay open till 8:00 PM.",
   },
   {
     time: "6:00pm - 6:30pm",
     event: "Opening Ceremony & Kickoff",
     location: "Business Building Lobby",
     description: "Brief opening talk and instructions for the event.",
-  },
-  {
-    time: "6:30pm",
-    event: "Shirt Handout",
-    location: "Business Building Lobby",
-    description: "We will be handing out shirts to all participants.",
   },
   {
     time: "6:30pm - 7:30pm",
@@ -27,7 +19,7 @@ export const FirstDay = [
   },
   {
     time: "10:00",
-    event: "Raffle Round #1",
+    event: "Raffle Round #1 + Shirt Handout!",
     location: "Business Building Lobby",
   },
   {

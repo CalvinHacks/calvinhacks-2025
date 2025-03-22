@@ -29,13 +29,13 @@ export const SecondDay = [
   //     description: '',
   // },
   {
-    time: "5:30pm - 6:30pm",
+    time: "5:30pm - 7:00pm",
     event: "Project Expo",
     location: "Business Building Lobby",
     description: "Showcase projects exposition-style to be judged.",
   },
   {
-    time: "6:30pm - 7:30pm",
+    time: "7:00pm - 7:30pm",
     event: "Dinner & Judge Deliberation",
     location: "Business Building Lobby",
     description: 'TBD',
